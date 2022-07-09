@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/svg-maker/static/css/main.23e2a92e.css",
+    "main.js": "/svg-maker/static/js/main.73148e3e.js",
+    "static/js/787.2a555d55.chunk.js": "/svg-maker/static/js/787.2a555d55.chunk.js",
+    "static/media/Celebration.svg": "/svg-maker/static/media/Celebration.d71961580a015345b0eec0ae84e051f8.svg",
+    "index.html": "/svg-maker/index.html",
+    "static/media/Fill.svg": "/svg-maker/static/media/Fill.bc1e88d4e0c7a18b15c0.svg",
+    "main.23e2a92e.css.map": "/svg-maker/static/css/main.23e2a92e.css.map",
+    "main.73148e3e.js.map": "/svg-maker/static/js/main.73148e3e.js.map",
+    "787.2a555d55.chunk.js.map": "/svg-maker/static/js/787.2a555d55.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23e2a92e.css",
+    "static/js/main.73148e3e.js"
+  ]
+}
